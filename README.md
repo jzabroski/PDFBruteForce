@@ -1,0 +1,1 @@
+Finds password to a PDF with a typo in the password.
